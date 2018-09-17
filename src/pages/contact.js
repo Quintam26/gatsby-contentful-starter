@@ -15,6 +15,9 @@ class Contant
         <div className={styles.hero}>
           Email: Pyrros2000@gmail.com
         </div>
+        <div className="wrapper">
+        <h2 className="section-headline">Social Media</h2>
+        </div>
       </div>
     )
   }
