@@ -3,9 +3,9 @@
   justify-content: center;
   align-items: center;
   height: 61.8vh;
+  background: black;
   max-height: 400px;
   color: white;
-  background: black;
   font-size: 2em;
   overflow: hidden;
 }
