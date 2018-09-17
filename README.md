@@ -1,5 +1,8 @@
 # gatsby-contentful-starter
 
+CFPAT-285a24a591ef4a1f7ce1bd4862d566c3e237c459ff02f8a966d98ac24e15f5e0
+
+
 Gatsby [Contentful](https://www.contentful.com) starter for creating a blog
 
 ![The index page of the starter blog](https://rawgit.com/contentful-userland/gatsby-contentful-starter/master/screenshot.jpg "The index page of the starter blog")
